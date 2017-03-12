@@ -21,11 +21,12 @@ So I'd like to share with you my custom set of kext and config (config hasn't mu
 
 - [Clover config file](./EFI/CLOVER/config.plist) (In `config.plist` notice that there 3 fields with _REPLACE WITH YOURS_)
 - [List of kext in S/L/E](./Extensions/readmeSLE.md) (System/Library/Extensions)
-- [Some not standard kext in S/L/E](./Extensions/readmeSLE.md) (System/Library/Extensions)
+- [Some not standard kext in S/L/E](./Extensions/SLE/) (System/Library/Extensions)
 - [List of kext in L/E](./Extensions/readmeLE.md) (Library/Extensions)
 - [Kext in Clover](./EFI/CLOVER/kexts/10.12/)
 
 I install Sierra by UniBeast and after intall Multibeast with `System Definitions` as iMac13,2
+
 To make sound work I use [audio_cloverALC-120_v1.0d.command](./audio_cloverALC-120_v1.0d.command) with default setup options (yes, yes, yes as I remember)
 
 I hope with this configuration you will get to make Sierra work fine
