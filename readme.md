@@ -25,6 +25,8 @@ So I'd like to share with you my custom set of kext and config (config hasn't mu
 - [List of kext in L/E](./Extensions/readmeLE.md) (Library/Extensions)
 - [Kext in Clover](./EFI/CLOVER/kexts/10.12/)
 
+#####[Download all](https://github.com/pcherednichenko/hackintoshZ77/archive/master.zip)
+
 I install Sierra by UniBeast and after intall Multibeast with `System Definitions` as iMac13,2
 
 To make sound work I use [audio_cloverALC-120_v1.0d.command](./audio_cloverALC-120_v1.0d.command) with default setup options (yes, yes, yes as I remember)
