@@ -33,7 +33,7 @@ To make sound work I use [audio_cloverALC-120_v1.0d.command](./audio_cloverALC-1
 
 I hope with this configuration you will get to make Sierra work fine
 
-####What I try to do:
+####What I was trying to do::
 - add or remove AtherosL1cEthernet.kext (ethernet or sleep doesn't work)
 - use AtherosE2200Ethernet.kext (sleep doesn't work)
 - try solution from [this post](https://www.tonymacx86.com/threads/unibeast-6-0-works-fine-but-no-ethernet-after-post-installation-ga-z77-ds3h-core-i5-3570k-gtx.174036/#post-1113204) (once I start getting Kernel Panic)
